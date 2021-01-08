@@ -29,6 +29,9 @@ p{
 .half-width img{
 	width:100%;
 }
+.about{
+	margin-top: 50px;
+}
 .one-third{
 	width: 25%;
 	float: left;
