@@ -1,0 +1,121 @@
+body{
+	margin: 0px;
+	font-family: 'Poppins', sans-serif;
+
+}
+h1{
+	font-size: 50px;
+}
+h2{
+	font-size: 40px;
+}
+h4{
+	color: yellow;
+}
+p{
+	color: dimgray;
+}
+
+.orange-highlight{
+	color: orange;
+}
+.half-width{
+	width: 40%;
+	float: left;
+	margin-left: 5%;
+	padding-left: 2%;
+	
+}
+.half-width img{
+	width:100%;
+}
+.one-third{
+	width: 25%;
+	float: left;
+	margin-left: 3%;
+}
+.one-third img{
+	width:100%;
+}
+.top-banner{
+	background-image: url("Images/top-banner.png");
+	background-repeat: no-repeat;
+}
+section{
+	height: 500px;
+	padding-bottom: 100px;
+}
+.edu{
+	height: 400px;
+	padding-bottom: 20px;
+}
+.boldd{
+	font-size: bold;
+}
+.link-button{
+	text-decoration: none;
+	background-image: linear-gradient(45deg,blue,cyan);
+	padding: 10px 20px;
+	border-radius: 5px;
+	color: white;
+	font-weight: 700;
+}
+.project{
+	background-color: white;
+	margin-left: 180px;
+}
+
+.dream-area{
+	background-image: url("Images/dream-bg.png");
+	background-repeat: no-repeat;
+	background-position: right;
+}
+.latest{
+	text-align: center;
+	font-size: bold;
+	margin-right: 150px;
+}
+#red-span{
+	color: tomato;
+}
+.gap{
+	padding-left: 10px;
+}
+.single{
+	box-shadow: 5px 5px 10px gray;
+	border-radius: 5px;
+	height: 80%;
+	background-color: white;
+}
+.single1{
+	box-shadow: 5px 5px 10px gray;
+	border-radius: 5px;
+	height: 80%;
+	background-color: white;
+}
+
+
+.container{
+	position: relative;
+	text-align: center;
+	color: white;
+	margin-bottom: 30px;
+}
+.work{
+	position: absolute;
+	bottom: 25px;
+	left: 360px;
+	font-size: bold;
+}
+.link{
+	position: absolute;
+	bottom: 65px;
+	right: 360px;
+
+}
+
+}
+footer p{
+	text-align: center;
+	font-size: 12px;
+}
